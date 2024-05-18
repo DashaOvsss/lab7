@@ -9,3 +9,4 @@ function sumOfSeries(n) {
 
     return sum;
 }
+console.log(sumOfSeries(5));
